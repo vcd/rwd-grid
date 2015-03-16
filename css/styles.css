@@ -1,0 +1,49 @@
+
+/* AWESOME STYLING */
+
+
+/* Desktop LARGE : min width */
+@media (min-width: 1201px) {
+
+	body {
+		background: red;
+	}
+
+	header img {
+		width: 200px;
+	}
+
+}
+
+/* Desktop Standard : max width */
+@media (max-width: 1200px) {
+
+	body {
+		background: green;
+	}
+
+	header img {
+		width: 50%;
+	}
+
+}
+
+/* Tablet Standard : max width */
+@media (max-width: 768px) {
+
+	body {
+		background: blue;
+	}
+
+
+
+}
+
+/* Mobile Standard : max width */
+@media (max-width: 480px) {
+
+	body {
+		background: orange;
+	}
+
+}
